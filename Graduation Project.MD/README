@@ -1,1 +1,194 @@
+# 🩸 Blood Test Analysis Dashboard
 
+## 📌 Project Overview
+
+The Blood Test Analysis Dashboard is a healthcare data analytics project developed as part of the ITC Data Analysis Track.
+
+The project analyzes blood test records for 100,000 patients using Power BI, Python, SQL, and Excel to generate meaningful insights that support healthcare decision-making.
+
+---
+
+# 🎯 Project Objectives
+
+- Analyze blood test data.
+- Monitor important health indicators.
+- Compare blood measurements between males and females.
+- Analyze patient distribution across age groups.
+- Detect patients at risk of diabetes.
+- Provide actionable healthcare recommendations.
+
+---
+
+# ❓ Problem Statement
+
+Healthcare institutions collect massive amounts of laboratory data every day. Without proper analysis, it becomes difficult to identify health trends, monitor patient conditions, and support medical decisions.
+
+This project transforms raw blood test data into an interactive dashboard that enables healthcare professionals to quickly understand patient health indicators and identify potential risks.
+
+---
+
+# 🛠 Technologies Used
+
+- Power BI
+- Python
+- SQL
+- Excel
+- Power Query
+- DAX
+
+---
+
+# 📊 Dataset
+
+The dataset contains laboratory test records for approximately **100,000 patients** including:
+
+- Gender
+- Age
+- Hemoglobin
+- Glucose
+- Cholesterol
+- White Blood Cells (WBC)
+- Platelet Status
+
+---
+
+# ⭐ Project Features
+
+- Interactive Dashboard
+- KPI Cards
+- Gender Analysis
+- Age Distribution
+- Hemoglobin Analysis
+- Glucose Classification
+- Cholesterol Analysis
+- Platelet Status Analysis
+- WBC Analysis
+- Business Recommendations
+
+---
+
+# 📈 Dashboard KPIs
+
+- Total Patients
+- Average Hemoglobin
+- Average Glucose
+- Average Cholesterol
+- Average WBC Count
+- Platelet Status Distribution
+
+---
+
+# 🚀 How to Run
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/YourUserName/Blood-Test-Analysis.git
+```
+
+2. Install Python requirements.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the Power BI (.pbix) file.
+
+4. Refresh the dataset.
+
+5. Explore the dashboard.
+
+---
+
+# 📂 Project Structure
+
+| Folder | Description |
+|---------|-------------|
+| Data | Raw and cleaned datasets |
+| Python | Data cleaning and analysis notebooks |
+| SQL | SQL queries |
+| PowerBI | Dashboard file |
+| Screenshots | Dashboard images |
+| Documentation | Project documentation |
+| Presentation | Final presentation |
+
+---
+
+# 📷 Dashboard Screenshots
+
+(Add screenshots here)
+
+- Dashboard Overview
+- KPIs
+- Age Distribution
+- Hemoglobin Analysis
+- Glucose Analysis
+- Recommendations
+
+---
+
+# 📌 Key Insights
+
+- Nearly half of the patients are classified as pre-diabetic.
+- Average hemoglobin levels differ naturally between males and females.
+- Cholesterol levels remain within the normal range.
+- Platelet counts are normal for the majority of patients.
+- White Blood Cell counts indicate a generally healthy population.
+
+---
+
+# 💡 Recommendations
+
+- Launch awareness programs for pre-diabetic patients.
+- Improve screening for younger age groups.
+- Monitor patients with low platelet counts.
+- Continue periodic blood health monitoring.
+
+---
+
+# ⚠ Challenges
+
+- Data cleaning.
+- Handling missing values.
+- Standardizing medical measurements.
+- Creating accurate KPIs.
+- Designing an interactive dashboard.
+
+---
+
+# 🔮 Future Improvements
+
+- Machine Learning prediction models.
+- Disease risk prediction.
+- Real-time dashboard updates.
+- Cloud database integration.
+- Automated reporting.
+
+---
+
+# 👥 Team Members
+
+- Abdulrahman Essam Sheta (Team Leader)
+- Mariam Nasser Al Ayashi (Data Analyst)
+- Youssef Mousa Rizk (Data Analyst)
+
+Supervisor:
+Iman Ghanem
+
+---
+
+# 🎥 Project Presentation
+
+Blood Test Analysis Presentation.pptx
+
+---
+
+# 🎬 Project Demo Video
+
+(Add YouTube or Google Drive Link)
+
+---
+
+# ❤️ Acknowledgment
+
+This project was developed as part of the ITC Data Analysis Track under the Digital Egypt Pioneers Initiative.
